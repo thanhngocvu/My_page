@@ -70,9 +70,9 @@ header .logo:hover {
     display: block;
     flex-direction: column;
     padding: 0;
-    bottom: 0;
     top: 34px;
     left: -100%;
+    /* bottom: 0; */
     background-color: rgba(0, 0, 0, 0.747);
     height: 100vh;
   }
