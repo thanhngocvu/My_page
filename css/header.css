@@ -5,7 +5,7 @@ header {
   justify-content: space-between;
   background-color: black;
   align-items: center;
-  height: 50px;
+  height: 70px;
   top: 0;
   right: 0;
   left: 0;
@@ -17,6 +17,9 @@ header .logo {
   height: 100%;
   line-height: 50px;
   cursor: pointer;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 header ul {
